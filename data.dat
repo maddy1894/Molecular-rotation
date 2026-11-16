@@ -1,0 +1,12 @@
+CO2              = Molecule name
+0.39021          =Rotational constant
+27.25            =alpha_parallel
+13.1             =alpha_perpendicular
+1                =Spin_even
+0                =Spin_odd
+10               =Temperature
+40               =J_max
+10               =Pulse width in fs
+300000            = Evaluation time in fs
+800              =Wavelength
+080              =Intensity in TW/cm^2
